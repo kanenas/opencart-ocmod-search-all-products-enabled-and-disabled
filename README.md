@@ -1,2 +1,3 @@
-# opencart-ocmod-search-all-products-enabled-and-disabled
-Search all products (enabled &amp; disabled) public function
+# Search all products (enabled &amp; disabled) public function
+
+**Opencart**: v3.0.3.8  
